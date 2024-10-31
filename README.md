@@ -1,2 +1,2 @@
 # To-Do task manager
-A simple webapp to manager your daily tasks/goals uses React for frontend and utilizes local storage for data storage, you can visit the webapp at <a href="todosandtasks.netlify.app">todosandtasks.netlify.app</a>
+A simple webapp to manager your daily tasks/goals uses React for frontend and utilizes local storage for data storage, you can visit the webapp at <a href="todosandtasks.netlify.app" target="/">todosandtasks.netlify.app</a>
